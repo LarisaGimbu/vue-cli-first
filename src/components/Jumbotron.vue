@@ -17,32 +17,32 @@ export default {
 
 <style scoped>
   .jumbotron{
-  height: 400px;
-  background-color: bisque;
-  margin-bottom: 20px;
-  border-radius: 7px;
-}
+    height: 400px;
+    background-color: bisque;
+    margin-bottom: 20px;
+    border-radius: 7px;
+  }
 
-.jumbo-text{
-  height: 100%; 
-  border-radius: 7px;
-  padding: 20% 0 10% 40px;
-}
+  .jumbo-text{
+    height: 100%; 
+    border-radius: 7px;
+    padding: 20% 0 10% 40px;
+  }
 
-.jumbotron p{
-  width: 60%;
-  color: chocolate;
-}
+  .jumbotron p{
+    width: 60%;
+    color: chocolate;
+  }
 
-.jumbo-title{
-  font-size: 30px;
-}
+  .jumbo-title{
+    font-size: 30px;
+  }
 
-.jumbo-subtitle{
-  font-size: 15px;
-}
+  .jumbo-subtitle{
+    font-size: 15px;
+  }
 
-.jumbo-subtitle::after{
-  content: '...';
-}
+  .jumbo-subtitle::after{
+    content: '...';
+  }
 </style>
